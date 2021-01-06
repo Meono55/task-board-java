@@ -2,4 +2,4 @@
 BackEnd for TaskBoard project.
 Java, SpringBoot
 
-Using Spring Security and JWT for Authentication
+Using Spring Security and JWT for Authorization
